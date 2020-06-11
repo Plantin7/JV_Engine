@@ -1,3 +1,0 @@
-/home/vincent/CLionProjects/JV_Engine/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/vincent/CLionProjects/JV_Engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/vincent/CLionProjects/JV_Engine/cmake-build-debug/CMakeFiles/JV_Engine.dir
